@@ -1,6 +1,6 @@
 # Docker a Kubernetes: Úvodní Průvodce
 
-Tento dokument slouží jako rychlý úvod pro práci s kontejnery a orchestrací pomocí Dockeru a Kubernetes. Poskytuje základní informace a ukazuje první kroky pro začínající uživatele.
+Tento dokument slouží jako skripta k prezentaci o pro práci s kontejnery a orchestrací pomocí Dockeru a Kubernetes. Poskytuje základní informace a ukazuje první kroky pro začínající uživatele.
 
 ## Docker: Efektivní kontejnerizace
 
@@ -93,4 +93,4 @@ Poté můžete aplikaci navštívit na `http://localhost:8080`.
 ### Souhrn
 S Dockerem můžete snadno začít vytvářet a spravovat kontejnery pro vaše aplikace. Další informace a pokyny pro pokročilé konfigurace najdete v [oficiální dokumentaci Dockeru](https://docs.docker.com/).
 
-Pro zájemce o Kubernetes doporučujeme pokračovat vzděláním prostřednictvím [oficiální dokumentace Kubernetes](https://kubernetes.io/docs/home/), kde naleznete detailnější informace a postupy pro práci s tímto nástrojem.
+Pro zájemce o Kubernetes doporučujeu pokračovat vzděláním prostřednictvím [oficiální dokumentace Kubernetes](https://kubernetes.io/docs/home/), kde naleznete detailnější informace a postupy pro práci s tímto nástrojem.
